@@ -1,15 +1,14 @@
 # John Rood
 
-Founder of [MemoryRouter](https://memoryrouter.ai) — one memory across every AI you use.
+Founder of [MemoryRouter](https://memoryrouter.ai) — one memory for every AI you use.
 
-MemoryRouter helps people move useful context from ChatGPT to Claude and keep one approved memory across Claude, Codex, OpenClaw, and compatible MCP clients. For product teams, it provides persistent, private, user-scoped AI memory through APIs and MCP.
+MemoryRouter helps people carry approved context from ChatGPT to Claude and other AI tools. It also gives product teams private, persistent memory for every user through APIs and MCP.
 
-## MemoryRouter
+Based in New York, New York, United States.
 
-- [Try MemoryRouter](https://app.memoryrouter.ai/signup)
-- [Read the documentation](https://docs.memoryrouter.ai)
-- [Connect AI tools with MCP](https://memoryrouter.ai/mcp)
-- [Explore public releases and integration resources](https://github.com/John-Rood/memoryrouter-sdk)
-- [Review security and trust](https://memoryrouter.ai/security)
-
-I also build [VectorVault](https://vectorvault.io) and write at [johnrood.com](https://johnrood.com).
+- [MemoryRouter](https://memoryrouter.ai)
+- [Documentation](https://docs.memoryrouter.ai)
+- [Public SDK and releases](https://github.com/John-Rood/memoryrouter-sdk)
+- [Pricing](https://memoryrouter.ai/pricing)
+- [Security](https://memoryrouter.ai/security)
+- [Contact](mailto:hello@memoryrouter.ai)
