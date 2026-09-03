@@ -13,7 +13,7 @@ I build production AI agent systems.
 ## Open source
 
 - **[VectorVault](https://github.com/John-Rood/VectorVault)** (2023): the first serverless vector database. Stateless compute over object storage. `pip install vector-vault`
-- **[VectorVault-js](https://github.com/John-Rood/VectorVault-js)** (2026): the first standalone vector database for TypeScript/Node with native FAISS. `npm i vectorvault`
+- **[VectorVault-js](https://github.com/John-Rood/VectorVault-js)** (2026): the only fully native TypeScript vector database. Search engine written from scratch in TS, zero native bindings, runs anywhere Node runs. `npm i vectorvault`
 - **[claude-proxy](https://github.com/John-Rood/claude-proxy)**: 150-line, zero-dependency proxy routing Anthropic API traffic through Claude Code subscriptions.
 - **[pure_mcp](https://github.com/John-Rood/pure_mcp)**: pure-Python Model Context Protocol client.
 - **[OpenClaw](https://github.com/openclaw/openclaw)**: merged core fixes ([#1337](https://github.com/openclaw/openclaw/pull/1337) gateway channel routing, [710c681](https://github.com/openclaw/openclaw/commit/710c681) browser automation refs); designed the `llm_input` context-injection pattern memory plugins use for cron and sub-agent runs ([#24122](https://github.com/openclaw/openclaw/pull/24122)); author of `mr-memory`.
