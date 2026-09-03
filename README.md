@@ -1,24 +1,23 @@
 # John Rood
 
-Founder of [MemoryRouter](https://memoryrouter.ai) — one memory for every AI you use.
+I build production AI agent systems.
 
-MemoryRouter helps people carry approved context from ChatGPT to Claude and other AI tools. It also gives product teams private, persistent memory for every user through APIs and MCP.
+**Director of AI, Decision Resources** · **Founder, MemoryRouter** · **Creator of VectorVault** · **Early OpenClaw contributor** · Los Angeles
 
-Based in New York, New York, United States.
+## Shipping right now
 
-## MemoryRouter
+- **[InSyte](https://syteline.app)**: multi-tenant AI agent platform over Infor SyteLine ERP, in production at manufacturers. Scheduled workflows fan out to hundreds of parallel sub-agents; governed two-phase ERP writes with full audit; on-prem, cloud, and GovCloud. [Pricing](https://syteline.app/insyte-pricing).
+- **[MemoryRouter](https://memoryrouter.ai)**: persistent memory for AI agents. Vaults, semantic retrieval, and tiered reflection so agents remember what you told them yesterday. [Docs](https://docs.memoryrouter.ai) · [SDK](https://github.com/John-Rood/memoryrouter-sdk) · [MCP](https://memoryrouter.ai/mcp) · [OpenClaw plugin `mr-memory`](https://www.npmjs.com/package/mr-memory) · [DeepSeek Harness `dsh-memoryrouter`](https://github.com/John-Rood/dsh-memoryrouter)
+- **An autonomous agent fleet** on a hardened OpenClaw fork that builds, tests, deploys, triages email, and posts to production every day.
 
-- Website: [memoryrouter.ai](https://memoryrouter.ai)
-- App: [app.memoryrouter.ai](https://app.memoryrouter.ai)
-- Documentation: [docs.memoryrouter.ai](https://docs.memoryrouter.ai)
-- Public SDK and CLI releases: [memoryrouter-sdk](https://github.com/John-Rood/memoryrouter-sdk)
-- OpenClaw plugin on npm: [mr-memory](https://www.npmjs.com/package/mr-memory)
-- MCP and connector guide: [memoryrouter.ai/mcp](https://memoryrouter.ai/mcp)
-- Company page: [LinkedIn](https://www.linkedin.com/company/memoryrouter/)
-- Pricing: [memoryrouter.ai/pricing](https://memoryrouter.ai/pricing)
-- Security: [memoryrouter.ai/security](https://memoryrouter.ai/security)
+## Open source
+
+- **[VectorVault](https://github.com/John-Rood/VectorVault)** (2023): the first serverless vector database. Stateless compute over object storage. `pip install vector-vault`
+- **[VectorVault-js](https://github.com/John-Rood/VectorVault-js)** (2026): the first standalone vector database for TypeScript/Node with native FAISS. `npm i vectorvault`
+- **[claude-proxy](https://github.com/John-Rood/claude-proxy)**: 150-line, zero-dependency proxy routing Anthropic API traffic through Claude Code subscriptions.
+- **[pure_mcp](https://github.com/John-Rood/pure_mcp)**: pure-Python Model Context Protocol client.
+- **[OpenClaw](https://github.com/openclaw/openclaw)**: merged core fixes ([#1337](https://github.com/openclaw/openclaw/pull/1337) gateway channel routing, [710c681](https://github.com/openclaw/openclaw/commit/710c681) browser automation refs); designed the `llm_input` context-injection pattern memory plugins use for cron and sub-agent runs ([#24122](https://github.com/openclaw/openclaw/pull/24122)); author of `mr-memory`.
 
 ## Contact
 
-- Product and account help: [hello@memoryrouter.ai](mailto:hello@memoryrouter.ai)
-- Personal site: [johnrood.com](https://johnrood.com)
+[johnrood.com](https://johnrood.com) · [LinkedIn](https://linkedin.com/in/johnrood777) · [@johnroodepic](https://x.com/johnroodepic) · john@johnrood.com
